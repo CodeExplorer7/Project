@@ -1,7 +1,4 @@
 "use strict";
 
-
-
-const user = 'Egor';
-
-alert(`Привет, ${user}!`);
+let numberOfFilms = prompt ('Сколько фильмов Вы уже посмотрели?','');
+console.log(numberOfFilms);
